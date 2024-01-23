@@ -1,16 +1,10 @@
-# angela_simple_to_do_app_state_management
+# Angela_YU_simple_to_do_app_state_management
 
-A new Flutter project.
+## This is simple app for todoey app similar to angela yu tutorial with some example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Add Tasks
+![angela_simple_to_do_app_state_management2024-01-2314-54-59-ezgif com-optimize](https://github.com/GaneshTamang/AngelaYUStateManagementExample_TodoeyApp/assets/91676483/805a04ea-fcc0-454b-a813-a37716560ca1)
+### Delete task
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![delete](https://github.com/GaneshTamang/AngelaYUStateManagementExample_TodoeyApp/assets/91676483/c3f54813-87bc-45f0-9956-683c75b00979)
